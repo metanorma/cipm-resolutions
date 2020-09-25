@@ -12,10 +12,7 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: |-
-      +
-
-      The Comité International des Poids et Mesures (CIPM)
+    message: The Comité International des Poids et Mesures (CIPM)
   considerations:
   - type: recognizing
     date_effective: 1989-01-01

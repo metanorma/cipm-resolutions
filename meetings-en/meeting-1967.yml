@@ -12,14 +12,11 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: |-
-      +
-
-      The Comité International des Poids et Mesures,
+    message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: 1967-01-01
-    message: considering that the rule for forming names of decimal multiples and
+    message: that the rule for forming names of decimal multiples and
       submultiples of the units of paragraph 3 of cgpm-resolution:en/11/12#para3[Resolution
       12] of the 11th Conférence Générale des Poids et Mesures (CGPM) (1960) might
       be interpreted in different ways when applied to the unit of mass,
