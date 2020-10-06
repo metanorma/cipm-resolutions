@@ -33,8 +33,8 @@ resolutions:
       4 parts in stem:[10^(7)], and a reproducibility which is significantly better,
   - type: considering
     date_effective: 1988-01-01
-    message: is of the opinion that no change in this recommended value of the Josephson
-      constant will be necessary in the foreseeable future, and
+    message: '*is of the opinion* that no change in this recommended value of the Josephson
+      constant will be necessary in the foreseeable future, and'
   actions:
   - type: recommends
     date_effective: 1988-01-01

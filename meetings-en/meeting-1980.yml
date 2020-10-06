@@ -40,7 +40,7 @@ resolutions:
   - type: considering
     date_effective: 1980-01-01
     message: |-
-      considering also
+      *considering also*
 
        that the interpretation given by the CIPM in 1969 for the class of supplementary units introduced in cgpm-resolution:en/11/12[Resolution 12] of the 11th Conférence Générale des Poids et mesures (CGPM) in 1960 allows the freedom of treating the radian and the steradian as SI base units,
   - type: considering

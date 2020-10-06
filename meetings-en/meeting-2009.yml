@@ -1,0 +1,44 @@
+---
+metadata:
+  title: CIPM, 2009
+  date: 2009-01-01
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - 2009-01-01
+  title: Updates to the list of standard frequencies
+  identifier: 2
+  url: https://www.bipm.org/en/CIPM/db/2009/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: 2009-01-01
+    message: |-
+    that
+    
+    a common list of “Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second” has been established;
+  - type: considering
+    date_effective: 2009-01-01
+    message: the CCL-CCTF Frequency Standards Working Group (FSWG) has reviewed several promising candidates for inclusion in the list;
+  actions:
+  - type: recommends
+    date_effective: 2009-01-01
+    message: |-
+    that the following transition frequencies shall be included or updated in the list of recommended standard frequencies:
+    
+    the unperturbed optical transition 5s^2^ ^1^S~0~ – 5s 5p ^3^P~0~ of the ^87^Sr neutral atom with a frequency of f = 429 228 004 229 873.7 Hz and a relative standard uncertainty of stem:[1 xx 10^(−15)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+  - type: recommends
+    date_effective: 2009-01-01
+    message: the unperturbed optical transition 5s^2^ ^1^S~0~ – 5s 5p ^3^P~0~ of the ^88^Sr neutral atom with a frequency of f = 429 228 066 418 012 Hz and a relative standard uncertainty of stem:[1 xx 10^(−14)];
+  - type: recommends
+    date_effective: 2009-01-01
+    message: the unperturbed optical transition 4s ^2^S~1/2~ – 3d ^2^D~5/2~ of the ^40^Ca^+^ ion with a frequency of f = 411 042 129 776 393 Hz and a relative standard uncertainty of stem:[4 xx 10^(−14)];
+  - type: recommends
+    date_effective: 2009-01-01
+    message: the unperturbed optical transition ^2^S~1/2~ (_F_ = 0) – ^2^F~7/2~ (_F_ = 3, _m_~F~ = 0) of the ^171^Yb^+^ ion with a frequency of f = 642 121 496 772 657 Hz and a relative standard uncertainty of stem:[6 xx 10^(−14)];
+  - type: recommends
+    date_effective: 2009-01-01
+    message: the unperturbed optical transition 6s^2^ ^1^S~0~ (_F_ = 1/2) – 6s 6p ^3^P~0~ (_F_ = 1/2) of the ^171^Yb neutral atom with a frequency of f = 518 295 836 590 864 Hz and a relative standard uncertainty of stem:[1.6 xx 10^(−13)].

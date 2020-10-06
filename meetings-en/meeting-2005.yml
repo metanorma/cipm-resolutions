@@ -12,9 +12,37 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: Unanimous
-  considerations: []
-  actions: []
+    message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: 2005-01-01
+    message: that the kelvin, unit of thermodynamic temperature, is defined as the fraction 1/273.16 of the thermodynamic temperature of the triple point of water,
+  - type: considering
+    date_effective: 2005-01-01
+    message: that the temperature of the triple point depends on the relative amount of isotopes of hydrogen and oxygen present in the sample of water used,
+  - type: considering
+    date_effective: 2005-01-01
+    message: that this effect is now one of the major sources of the observed variability between different realizations of the water triple point,
+  actions:
+  - type: decides
+    date_effective: 2005-01-01
+    message: that the definition of the kelvin refer to water of a specified isotopic composition,
+  - type: decides
+    date_effective: 2005-01-01
+    message: |-
+    that this composition be:
+    
+    0.000 155 76 mole of ^2^H per mole of ^1^H, +
+    0.000 379 9 mole of ^17^O per mole of ^16^O, and +
+    0.002 005 2 mole of ^18^O per mole of ^16^O,
+    
+    which is the composition of the International Atomic Energy Agency reference material Vienna Standard Mean Ocean Water (VSMOW), as recommended by IUPAC in "Atomic Weights of the Elements: Review 2000".
+  - type: decides
+    date_effective: 2005-01-01
+    message: |-
+    that this composition be stated in a note attached to the definition of the kelvin in the SI brochure as follows:
+    
+    "This definition refers to water having the isotopic composition defined exactly by the following amount of substance ratios: 0.000 155 76 mole of 2H per mole of 1H, 0.000 379 9 mole of 17O per mole of 16O and 0.002 005 2 mole of 18O per mole of 16O".
 - dates:
   - 2005-01-01
   title: Revision of the Mise en pratique list of recommended radiations
@@ -23,6 +51,45 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: Unanimous
-  considerations: []
-  actions: []
+    message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: 2005-01-01
+    message: |-
+    that
+    
+    improved frequency values for radiations of some high-stability cold ion and cold atom standards already documented in the recommended radiations list have recently become available;
+  - type: considering
+    date_effective: 2005-01-01
+    message: improved frequency values for the infra-red gas-cell-based optical frequency standard in the optical telecommunications region, already documented in the recommended radiations list, have been determined;
+  - type: considering
+    date_effective: 2005-01-01
+    message: improved frequency values for certain iodine gas-cell standard, already documented in the subsidiary recommended source list, have been determined;
+  - type: considering
+    date_effective: 2005-01-01
+    message: frequencies of new cold atoms, of atoms in the near-infrared region and of molecules in the optical telecommunications region have been determined by femtosecond comb-based frequency measurements for the first time;
+  actions:
+  - type: decides
+    date_effective: 2005-01-01
+    message: |-
+    that the list of _recommended radiations_ be revised to include the following:
+    
+    updated frequency values for the single trapped ^88^Sr^\+^ ion quadrupole transition, the single trapped ^199^Hg^+^ quadrupole transition and the single trapped ^171^Yb^+^ quadrupole transition;
+  - type: decides
+    date_effective: 2005-01-01
+    message: an updated frequency value for the Ca atom transition;
+  - type: decides
+    date_effective: 2005-01-01
+    message: an updated frequency value for the C~2~H~2~-stabilized standard at stem:[1.54 " "mu"m"];
+  - type: decides
+    date_effective: 2005-01-01
+    message: an updated frequency value for the I~2~-stabilized standard at 515 nm;
+  - type: decides
+    date_effective: 2005-01-01
+    message: the addition of the ^87^Sr atom transition at 698 nm;
+  - type: decides
+    date_effective: 2005-01-01
+    message: the addition of the ^87^Rb atom two-photon transitions at 760 nm;
+  - type: decides
+    date_effective: 2005-01-01
+    message: the addition of the ^12^C~2~H~2~ (stem:[nu_1 + nu_3]) band and the ^13^C~2~H~2~ (stem:[nu_1 + nu_3]) and (stem:[nu_1 + nu_3 + nu_4 + nu_5]) bands at stem:[1.54 " "mu"m"].

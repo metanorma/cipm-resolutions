@@ -1,0 +1,41 @@
+---
+metadata:
+  title: CIPM, 2006
+  date: 2006-01-01
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - 2006-01-01
+  title: Concerning secondary representations of the second
+  identifier: 1
+  url: https://www.bipm.org/en/CIPM/db/2006/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: 2006-01-01
+    message: |-
+    that
+    
+    a common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second" shall be established,
+  - type: considering
+    date_effective: 2006-01-01
+    message: the CCL/CCTF Joint Working Group (JWG) on the _Mise en Pratique_ of the Definition of the Metre and the Secondary Representations of the Second in its meeting at the International Bureau of Weights and Measures (BIPM) in September 2005 discussed possible candidates to be included in this list for secondary representations of the second,
+  - type: considering
+    date_effective: 2006-01-01
+    message: the CCL/CCTF JWG reviewed and updated the values for the Hg ion, Sr ion, Yb ion, and the Sr neutral atom transition frequencies in its session in September 2006,
+  - type: considering
+    date_effective: 2006-01-01
+    message: the CCTF in its Recommendation CCTF 1 (2004) already recommended the unperturbed ground-state hyperfine quantum transition frequency of 87Rb as a secondary representation of the second;
+  actions:
+  - type: recommends
+    date_effective: 2006-01-01
+    message: |-
+    that the following transition frequencies shall be used as secondary representations of the second and be included into the new list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second"
+    * the unperturbed ground-state hyperfine quantum transition of ^87^Rb with a frequency of stem:[f^(87)_(Rb) = 6 834 682 610.904 324 " Hz"] and an estimated relative standard uncertainty of stem:[3 xx 10^(−15)],
+    * the unperturbed optical 5s ^2^S~1/2~ – 4d ^2^D~5/2~ transition of the ^88^Sr^+^ ion with a frequency of stem:[f^(88)Sr^+ = 444 779 044 095 484 " Hz"] and a relative uncertainty of stem:[7 xx 10^(−15)],
+    * the unperturbed optical 5d^10^ 6s ^2^S~1/2~ (_F_ = 0) – 5d^9^ 6s^2^ ^2^D~5/2~ (_F_ = 2) transition of the ^199^Hg^\+^ ion with a frequency of stem:[f^(199)Hg^+ = 1 064 721 609 899 145 " Hz"] and a relative standard uncertainty of stem:[3 xx 10^(−15)],
+    * the unperturbed optical 6s ^2^S~1/2~ (_F_ = 0) – 5d ^2^D~3/2~ (_F_ = 2) transition of the ^171^Yb^\+^ ion with a frequency of stem:[f^(171)Yb^+ = 688 358 979 309 308 " Hz"] and a relative standard uncertainty of stem:[9 xx 10^(−15)],
+    * the unperturbed optical transition 5s^2^ ^1^S_0 – 5s 5p ^3^P~0~ of the ^87^Sr neutral atom with a frequency of stem:[f^(87)_(Sr) = 429 228 004 229 877 " Hz"] and a relative standard uncertainty of stem:[1.5 xx 10^(−14)].
