@@ -1,0 +1,18 @@
+---
+metadata:
+  title: CIPM, 2001
+  date: 2001-01-01
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - 2001-01-01
+  title: "SI units" and "units of the SI"
+  identifier: 1
+  url:
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+    The CIPM approved in 2001 the following proposal of the CCU regarding "SI units" and "units of the SI": +
+    "We suggest that "SI units" and "units of the SI" should be regarded as names that include both the base units and the coherent derived units, and also all units obtained by combining these with the recommended multiple and sub-multiple prefixes. +
+    We suggest that the name "coherent SI units" should be used when it is desired to restrict the meaning to only the base units and the coherent derived units."
