@@ -21,12 +21,12 @@ resolutions:
       Conférence Générale des Poids et Mesures (CGPM) (1960), concerning the Système
       International d'Unités, has provoked discussions on certain of its aspects,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1969-01-01
-    message: '*declares* the base units, the supplementary units and the derived units of the Système International d'Unités, which form a coherent set, are denoted by the name "SI units";'
-  - type: decides
+    message: 'the base units, the supplementary units and the derived units of the Système International d'Unités, which form a coherent set, are denoted by the name "SI units";'
+  - type: declares
     date_effective: 1969-01-01
-    message: '*declares* the prefixes adopted by the CGPM for the formation of decimal multiples and submultiples of SI units are called "SI prefixes";'
+    message: 'the prefixes adopted by the CGPM for the formation of decimal multiples and submultiples of SI units are called "SI prefixes";'
   - type: recommends
     date_effective: 1969-01-01
     message: |-
