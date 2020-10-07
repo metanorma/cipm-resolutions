@@ -20,9 +20,9 @@ resolutions:
       Générale des Poids et Mesures to name atomic or molecular frequency standards
       for temporary use for time measurements in physics,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1964-01-01
-    message: '*declares* that the standard to be employed is the transition between the
+    message: 'that the standard to be employed is the transition between the
       hyperfine levels stem:[F = 4], stem:[M = 0] and stem:[F = 3], stem:[M = 0] of the
       ground state ^2^S~1/2~ of the caesium 133 atom, unperturbed by external fields,
       and that the frequency of this transition is assigned the value 9 192 631 770
