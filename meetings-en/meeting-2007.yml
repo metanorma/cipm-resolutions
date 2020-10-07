@@ -1,0 +1,41 @@
+---
+metadata:
+  title: CIPM, 2007
+  date: 2007-01-01
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - 2007-01-01
+  title: Revision of the Mise en pratique list of recommended radiations
+  identifier: 1
+  url: https://www.bipm.org/en/CIPM/db/2007/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The International Committee for Weights and Measures,
+  considerations:
+  - type: considering
+    date_effective: 2007-01-01
+    message: |-
+    that
+    
+    improved frequency values of molecules in the optical telecommunications region, already documented in the list of standard frequencies, have been determined by femtosecond comb-based frequency measurements;
+  - type: considering
+    date_effective: 2007-01-01
+    message: frequencies of molecules in the optical telecommunications region have been determined by femtosecond comb-based frequency measurements for the first time;
+  - type: considering
+    date_effective: 2007-01-01
+    message: frequencies of certain iodine gas-cell absorptions close to the 532 nm optical frequency standard have been determined by femtosecond comb-based frequency measurements for the first time;
+  actions:
+  - type: proposes
+    date_effective: 2007-01-01
+    message: |-
+    that the list of standard frequencies be revised to include the following:
+    
+    an updated list of frequency values for the ^12^C~2~H~2~ (stem:[nu_1 + nu_3]) band at stem:[1.54 " "mu"m"];
+  - type: proposes
+    date_effective: 2007-01-01
+    message: the addition of frequency values for the ^12^C~2~HD (stem:[2nu_1]) band at stem:[1.54 " "mu"m"];
+  - type: proposes
+    date_effective: 2007-01-01
+    message: the addition of frequency values for the hyperfine components of the P(142) 37-0, R(121) 35-0 and R(85) 33-0 iodine transitions at 532 nm.

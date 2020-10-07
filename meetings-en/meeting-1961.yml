@@ -12,13 +12,10 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: |-
-      +
-
-      The Comité International des Poids et Mesures
+    message: The Comité International des Poids et Mesures
   considerations: []
   actions:
   - type: recommends
     date_effective: 1961-01-01
-    message: recommends that the results of accurate measurements of volume be expressed
+    message: that the results of accurate measurements of volume be expressed
       in units of the International System and not in litres.
