@@ -17,7 +17,7 @@ resolutions:
 
       Le Comité international des poids et mesures,
   considerations:
-  - type: having / having regard
+  - type: acting
     date_effective: 1988-01-01
     message: agissant conformément aux instructions données dans la Résolution 6 de
       la 18^e^ Conférence générale des poids et mesures concernant l'ajustement prévu
@@ -59,7 +59,7 @@ resolutions:
     message: recommande qu'à partir de cette même date tous les autres laboratoires
       ajustent la valeur de leurs étalons de référence pour la mettre en accord avec
       cette nouvelle valeur,
-  - type: calls upon
+  - type: draws the attention
     date_effective: 1988-01-01
     message: attire l'attention des laboratoires sur le fait que la nouvelle valeur
       est supérieure de stem:[3","9 "GHz"/"V"], soit approximativement stem:[8 * 10^(-6)]
@@ -78,7 +78,7 @@ resolutions:
 
       Le Comité international des poids et mesures,
   considerations:
-  - type: having / having regard
+  - type: acting
     date_effective: 1988-01-01
     message: "*agissant* conformément aux instructions données dans la cgpm-resolution:fr/18/6[Résolution
       6] de la 18^e^ Conférence générale des poids et mesures concernant l'ajustement
