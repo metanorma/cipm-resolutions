@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/104(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2015-II-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2015-10-01
     message: accepted the minutes of Session I of the 104th meeting of the CIPM as
       a true record.

@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/106.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2017-10-01
     message: accepted the minutes of the 105th meeting of the CIPM as a true record.
   actions: []
@@ -158,7 +158,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2017-10-01
     message: authorized the CIPM President to convey its support for the publication
       of the final numerical values for the defining constants to the Task Group for
@@ -171,7 +171,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/106.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2017-10-01
     message: "accepted the revised Draft Resolution stem:[\"A\"] as presented at the
       106th meeting of the CIPM which included modifications:\n\n* to the wording
@@ -296,7 +296,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/106.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2017-10-01
     message: "accepted the following changes to the membership and observership of
       the Consultative Committees:\n\n* CCEM\n\n** NIS (Egypt) as an observer. \n*
@@ -460,7 +460,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/106.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2017-10-01
     message: accepted document CIPM/17-23.1 as its position on revision of the _International
       Vocabulary of Metrology_ (VIM).

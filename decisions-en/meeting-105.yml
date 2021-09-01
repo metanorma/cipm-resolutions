@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/105.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2016-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2016-10-01
     message: accepted the minutes of Session II of the 104th meeting of the CIPM as
       a true record.
@@ -452,7 +452,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/105.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2016-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2016-10-01
     message: |-
       accepted the following changes to the membership and observership of the Consultative Committees:

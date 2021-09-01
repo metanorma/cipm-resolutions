@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/107.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2018-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2018-06-01
     message: accepted the minutes of the 106th meeting of the CIPM as a true record.
   actions: []
@@ -251,7 +251,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/107.html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2018-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2018-06-01
     message: accepted the proposal that GUM (Poland) and NIS (Egypt) should become
       observers at the CCL.

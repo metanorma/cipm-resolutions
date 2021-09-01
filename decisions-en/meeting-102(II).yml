@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/102(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2013-10-01
     message: accepted the minutes of Session I of the 102nd meeting of the CIPM as
       a true record.
@@ -58,7 +58,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/102(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2013-10-01
     message: accepted the changes proposed by Dr May to the document "Criteria and
       Process for Election of CIPM Members". The revised version to be placed on the
@@ -286,7 +286,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/102(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2013-10-01
     message: accepted the principle that the BIPM should establish an NMR facility
       subject to the availability of support from a third party and asked the CIPM

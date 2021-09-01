@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/103(I).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2014-03-01
     message: accepted the minutes of the 102nd meeting of the CIPM as a true record.
   actions: []
@@ -103,7 +103,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2014-03-01
     message: charged the CIPM Secretary to initiate by early April 2014 a second round
       of communication to Member States representatives and Directors of National
@@ -132,7 +132,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2014-03-01
     message: charged the CIPM Secretary to send a copy of the resignation document
       signed by the 16 members present at Session I of the 103rd meeting of the CIPM
@@ -147,7 +147,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2014-03-01
     message: charged the Working Group on CIPM Membership to come forward with proposed
       criteria and selection process of CC Presidents and good practices for the appointment
@@ -192,7 +192,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2014-03-01
     message: charged the BIPM to hold a meeting of NMI Directors in 2015 dedicated
       to the CIPM MRA review focusing on the benefits of the CIPM MRA, as well as
@@ -221,7 +221,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/103(I).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2014-03-01
     message: |-
       accepted the provisional timetable for the CGPM meeting and decided that the preparatory meeting on the dotation of the BIPM will take place on the morning of Monday 17 November 2014 (lab tours and presentations to follow in the afternoon).
@@ -344,7 +344,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2014-03-01
     message: charged S. Arlen and stem:["T"].stem:["J"]. Quinn to prepare notes on
       terminology to be forwarded to the CIPM and to be considered by the bureau at

@@ -71,7 +71,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/101(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2012-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2012-10-01
     message: |-
       accepted Recommendation CCTF 1 (2012), agreed to make it a CIPM recommendation and asked the BIPM Director to prepare a Draft Resolution for the 25th CGPM meeting and submit it to the CIPM bureau in March 2013.
@@ -325,7 +325,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2012-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2012-10-01
     message: |-
       authorized the BIPM Director to submit the draft protocol for "The BIPM Calibration Campaign in anticipation of the kilogram redefinition" to the CCM for review and provision of a recommendation to the CIPM.
