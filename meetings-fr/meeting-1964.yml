@@ -17,13 +17,13 @@ resolutions:
 
       Le Comité international des poids et mesures,
   considerations:
-  - type: acknowledging
+  - type: empowers
     date_effective: 1964-01-01
     message: habilité par la Résolution 5 de la Douzième Conférence générale des poids
       et mesures à désigner les étalons atomiques ou moléculaires de fréquence à employer
       temporairement pour les mesures physiques de temps,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1964-01-01
     message: déclare que l'étalon à employer est la transition entre les niveaux hyperfins
       stem:[F = 4], stem:[M = 0] et stem:[F = 3], _M =_ 0 de l'état fondamental ^2^S~1/2~

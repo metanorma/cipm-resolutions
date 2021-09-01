@@ -37,7 +37,7 @@ resolutions:
       de radiations recommandées, mesures qui conduisent à une réduction considérable
       de l'incertitude ;
   actions:
-  - type: encourages
+  - type: proposes
     date_effective: 2003-01-01
     message: |-
       *propose* que la liste des radiations recommandées soit révisée pour inclure :
