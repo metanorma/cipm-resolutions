@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/108(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2019-II-Decisions-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2019-10-01
     message: accepted the minutes of the first session of the 108th meeting of the
       CIPM as a true record.
@@ -373,7 +373,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/108(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2019-II-Decisions-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2019-10-01
     message: "accepted the following changes to the membership and observership of
       the Consultative Committees:\n\n* CCEM\n\n** CMI (Czechia) as a member\n* CCM\n\n**

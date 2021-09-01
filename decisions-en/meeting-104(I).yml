@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/104(I).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2015-I-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2015-03-01
     message: accepted the minutes of Session II of the 103rd meeting of the CIPM as
       a true record.
@@ -26,7 +26,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2015-I-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: 2015-03-01
     message: elected Dr Inglis as President of the CIPM by acclamation.
   subject: The CIPM
@@ -38,7 +38,7 @@ resolutions:
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2015-I-EN.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: 2015-03-01
     message: |-
       elected the following by secret ballot:

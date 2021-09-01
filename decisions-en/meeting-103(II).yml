@@ -12,7 +12,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/103(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2014-11-01
     message: accepted the minutes of Session I of the 103rd meeting of the CIPM as
       a true record.
@@ -164,7 +164,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/cipm/meeting/103(II).html
   reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2014-EN.pdf
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: 2014-11-01
     message: "accepted the following changes to the Consultative Committees:\n\n*
       CCPR\r\n** CMI (Czech Republic): Member\n** CMS/ITRI (Chinese Taipei): Observer\n**
