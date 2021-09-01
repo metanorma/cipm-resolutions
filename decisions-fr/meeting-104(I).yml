@@ -310,7 +310,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2015-I-FR.pdf
   considerations: []
   actions:
-  - type: encourages
+  - type: elects
     date_effective: 2015-03-01
     message: propose M. Buzoianu pour représenter le BIPM au Groupe de travail 2 sur
       le VIM du Comité commun pour les guides en métrologie (JCGM).
@@ -323,7 +323,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2015-I-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2015-03-01
     message: charge le BIPM de contacter l'ensemble des directeurs des laboratoires
       nationaux de métrologie pour solliciter leurs contributions et leur participation

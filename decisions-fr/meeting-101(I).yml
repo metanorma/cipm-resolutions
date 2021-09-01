@@ -509,7 +509,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2012-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2012-06-01
     message: autorise le directeur du BIPM à signer le protocole d'accord entre le
       BIPM et l'AIEA.

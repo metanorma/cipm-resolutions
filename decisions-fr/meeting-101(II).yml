@@ -327,7 +327,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2012-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2012-10-01
     message: |-
       autorise le directeur du BIPM à soumettre au CCM le projet de protocole concernant la campagne d'étalonnages du BIPM en vue de la redéfinition du kilogramme afin que le CCM l'examine et fasse une recommandation au CIPM.

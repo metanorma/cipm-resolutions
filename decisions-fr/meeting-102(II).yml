@@ -162,7 +162,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2013-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2013-10-01
     message: autorise le directeur du BIPM à appliquer les normes IPSAS 28, IPSAS
       29 et IPSAS 30 sur les instruments financiers pour les états financiers de 2013

@@ -204,7 +204,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2019-I-Decisions-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2019-03-01
     message: charge stem:["T"]. Liew de rédiger les termes de référence du Groupe
       de travail _ad hoc_ du CIPM sur la reproductibilité des données de recherches

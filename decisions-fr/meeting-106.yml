@@ -166,7 +166,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2017-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 2017-10-01
     message: autorise le président du CIPM à transmettre au _Task Group on Fundamental
       Constants_ de CODATA son accord concernant la publication des valeurs numériques
@@ -443,7 +443,7 @@ resolutions:
   reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2017-FR.pdf
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 2017-10-01
     message: charge le président du CIPM d'inviter chacune des organisations régionales
       de métrologie à envoyer un ou deux représentants à la prochaine réunion des
