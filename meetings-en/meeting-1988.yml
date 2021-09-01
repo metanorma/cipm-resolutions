@@ -14,7 +14,7 @@ resolutions:
     degree: unanimous
     message: The Comité International des Poids et Mesures
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: 1988-01-01
     message: '*acting* in accordance with instructions given in Resolution 6 of the 18th
       Conférence Générale des Poids et Mesures concerning the forthcoming adjustment
@@ -54,7 +54,7 @@ resolutions:
     message: that from this same date all other laboratories adjust the
       value of their laboratory reference standards to agree with the new adopted
       value,
-  - type: calls upon
+  - type: draws the attention
     date_effective: 1988-01-01
     message: '*draws the attention* of laboratories to the fact that the new value is
       greater by stem:[3.9 "GHz"/"V"], or about 8 parts in stem:[10^(6)], than the
@@ -70,7 +70,7 @@ resolutions:
     degree: unanimous
     message: The Comité International des Poids et Mesures,
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: 1988-01-01
     message: "*acting* in accordance with instructions given in cgpm-resolution:en/18/6[Resolution
       6] of the 18th Conférence Générale des Poids et Mesures concerning the forthcoming
